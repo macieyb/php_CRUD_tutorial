@@ -1,10 +1,10 @@
 <?php
 
 // used to connect to the database
-$host = "";
-$db_name = "";
-$username = "";
-$password = "";
+$host = "localhost";
+$db_name = "php_crud";
+$username = "root";
+$password = "coderslab";
 
 
 try {

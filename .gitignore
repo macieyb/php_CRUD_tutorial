@@ -1,1 +1,4 @@
 .idea/
+.config/database.php
+.libs/
+.libs
